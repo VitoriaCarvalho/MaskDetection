@@ -61,7 +61,7 @@ Se tudo ocorreu bem até aqui, agora você já pode executar os códigos :)
 
 **Observação 1:** se você deseja executar o código de extração de características da base de imagens para treinar o modelo novamente, basta abrir o jupyter notebook ou o vs code dentro do diretório onde você clonou o repositório e acessar o notebook `feature_extraction_and_classification.ipynb`.
 
-**Observação 2:** se você deseja executar apenas a aplicação final, onde os modelos são carregados e a detecção é feita na captura de vídeo, é totalmente possível, pois já disponibilizei os modelos treinados aqui no repositório. Basta abrir o jupyter notebook ou o vs code dentro do diretório onde você clonou o repositório e acessar o notebook `pipeline.ipynb`.
+**Observação 2:** se você deseja executar apenas a aplicação final, onde os modelos são carregados e a detecção de máscara é feita na captura de vídeo, é totalmente possível, pois já disponibilizei os modelos treinados aqui no repositório. Basta abrir o jupyter notebook ou o vs code dentro do diretório onde você clonou o repositório e acessar o notebook `pipeline.ipynb`.
 
 Nos dois casos, lembre-se de selecionar o kernel referente ao ambiente conda que você criou! :smiley:
 
