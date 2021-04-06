@@ -53,7 +53,7 @@ Antes de iniciar a instalação dos pacotes, te aconselho a criar um ambiente vi
     conda create - name myenv
     conda activate myenv
     
-Com o ambiente criado, navegue para o diretório onde você clonou o repositório e execute o comando abaixo para instalar os pacotes necessários com o pip:
+Com o ambiente criado e ativado, navegue para o diretório onde você clonou o repositório e execute o comando abaixo para instalar os pacotes necessários com o pip:
 
     pip install -r requirements.txt
     
