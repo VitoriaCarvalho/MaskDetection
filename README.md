@@ -14,7 +14,7 @@
 
 ## :smiley: Sobre o repositório
 
-Neste respositório, compartilho uma aplicação que eu desenvolvi para detecção de máscara em tempo real, utilizando OpenCV-Python e modelos de Deep Learning. Detalhei o desenvolvimento deste projeto em dois artigos no Medium, inclusive, te convido a dar uma lida: [Detecção de Máscara em Python Usando OpenCV e Deep Learning - Parte 1/2](https://vitoria-carvalho.medium.com/detec%C3%A7%C3%A3o-de-m%C3%A1scara-em-python-usando-opencv-e-deep-learning-parte-1-2-92c66799934e) e [Detecção de Máscara em Python Usando OpenCV e Deep Learning - Parte 2/2](https://vitoria-carvalho.medium.com/detec%C3%A7%C3%A3o-de-m%C3%A1scara-em-python-usando-opencv-e-deep-learning-parte-2-2-ee65644bb9d5). Nesses artigos, expliquei passo a passo o projeto, desde a escolha das tecnologias até os resultados finais :)
+Neste respositório, compartilho uma aplicação que eu desenvolvi para detecção de máscara em tempo real, utilizando OpenCV-Python e modelos de Deep Learning. Detalhei o desenvolvimento deste projeto em dois artigos no Medium, inclusive, te convido a dar uma lida: [Detecção de Máscara em Python Usando OpenCV e Deep Learning - Parte 1/2](https://vitoria-carvalho.medium.com/detec%C3%A7%C3%A3o-de-m%C3%A1scara-em-python-usando-opencv-e-deep-learning-parte-1-2-92c66799934e) e [Detecção de Máscara em Python Usando OpenCV e Deep Learning - Parte 2/2](https://vitoria-carvalho.medium.com/detec%C3%A7%C3%A3o-de-m%C3%A1scara-em-python-usando-opencv-e-deep-learning-parte-2-2-ee65644bb9d5). Nesses artigos, expliquei passo a passo o projeto e da implementação, desde a escolha das tecnologias até os resultados finais :)
 
 <p align="center">
   <img src="./assets_readme/mask_detection.gif" width="400"/>
